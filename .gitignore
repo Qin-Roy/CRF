@@ -1,9 +1,12 @@
 # Byte-compiled / optimized / DLL files
 data/
+model/
 1.md
 2.py
 data.xlsx
 PRF.txt
+.gitattributes
+.gitignore
 *.py[cod]
 *$py.class
 
